@@ -16,3 +16,5 @@ More content added to make your Minecraft no longer boring.
 Hope you like it:)
 
 It is currently in development, and most likely has some issues present.If you find it, please let me know on Github.
+
+[Modrinth](https://modrinth.com/modpack/qings_survival_modpack)
