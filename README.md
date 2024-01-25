@@ -1,4 +1,4 @@
-## Medium Modpack Fabric
+## QING’s Survival Modpack
 
 This is a medium sized modpack for Fabric Loader,a realistic survival modpack.
 More content added to make your Minecraft no longer boring.
